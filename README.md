@@ -105,4 +105,4 @@
 [![ui](https://raw.githubusercontent.com/curtis2/SuperVideoPlayer/master/source/Screenshot_2016-05-19-11-40-21.jpeg "效果图")](https://github.com/curtis2/SuperVideoPlayer)</br>
 52、[平时项目开发中用到的自定义view](https://github.com/7heaven/UILibrary)</br>
 [![ui](https://github.com/7heaven/UILibrary/blob/master/arts/rendering_2.gif "效果图")](https://github.com/7heaven/UILibrary)</br>
-[![ui]https://github.com/7heaven/UILibrary/blob/master/arts/rendering_1.gif "效果图")](https://github.com/7heaven/UILibrary)</br>
+[![ui](https://github.com/7heaven/UILibrary/blob/master/arts/rendering_1.gif "效果图")](https://github.com/7heaven/UILibrary)</br>
