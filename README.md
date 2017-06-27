@@ -103,3 +103,6 @@
 [![ui](https://raw.githubusercontent.com/youngkaaa/NavigationBottomDemo1/master/app/screens/record.gif "效果图")](https://github.com/youngkaaa/NavigationBottomDemo1)</br>
 51、[android超级视频播放器. 集成android流媒体处理的主流框架，vitamio, ijkplayer等等。使用不同的主流框架实现播放本地视频，网络视频，直播等功能](https://github.com/curtis2/SuperVideoPlayer)</br>
 [![ui](https://raw.githubusercontent.com/curtis2/SuperVideoPlayer/master/source/Screenshot_2016-05-19-11-40-21.jpeg "效果图")](https://github.com/curtis2/SuperVideoPlayer)</br>
+52、[平时项目开发中用到的自定义view](https://github.com/7heaven/UILibrary)</br>
+[![ui](https://github.com/7heaven/UILibrary/blob/master/arts/rendering_2.gif "效果图")](https://github.com/7heaven/UILibrary)</br>
+[![ui]https://github.com/7heaven/UILibrary/blob/master/arts/rendering_1.gif "效果图")](https://github.com/7heaven/UILibrary)</br>
