@@ -110,7 +110,7 @@
 [![ui](https://github.com/Quatja/Vorolay/raw/master/Screenshots/screenshot_4.png "效果图")](https://github.com/Quatja/Vorolay)</br>
 54、[仿知乎图片选择](https://github.com/zhihu/Matisse)</br>
 [![ui](https://github.com/zhihu/Matisse/blob/master/image/screenshot_dracula.png "效果图")](https://github.com/zhihu/Matisse)</br>
-55、[akePhoto是一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto)</br>
+55、[TakePhoto是一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto)</br>
 [![ui](https://raw.githubusercontent.com/crazycodeboy/TakePhoto/master/Screenshots/takephoto_preview.png "效果图")](https://github.com/crazycodeboy/TakePhoto)</br>
 56、[A Video compressor which uses ffmpeg lib for Android App- Android 视频压缩器](https://github.com/jczmdeveloper/XCVideoCompressor)</br>
 57、[仿支付宝六位密码输入框](https://github.com/huage2580/PswInputViewDemo)</br>
