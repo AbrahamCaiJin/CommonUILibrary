@@ -106,3 +106,39 @@
 52、[平时项目开发中用到的自定义view](https://github.com/7heaven/UILibrary)</br>
 [![ui](https://github.com/7heaven/UILibrary/blob/master/arts/rendering_2.gif "效果图")](https://github.com/7heaven/UILibrary)</br>
 [![ui](https://github.com/7heaven/UILibrary/blob/master/arts/rendering_1.gif "效果图")](https://github.com/7heaven/UILibrary)</br>
+53、[VoronoiView is a view (ViewGroup) that allows you to add and display views inside Voronoi diagram regions](https://github.com/Quatja/Vorolay)</br>
+[![ui](https://github.com/Quatja/Vorolay/raw/master/Screenshots/screenshot_4.png "效果图")](https://github.com/Quatja/Vorolay)</br>
+54、[仿知乎图片选择](https://github.com/zhihu/Matisse)</br>
+[![ui](https://github.com/zhihu/Matisse/blob/master/image/screenshot_dracula.png "效果图")](https://github.com/zhihu/Matisse)</br>
+55、[akePhoto是一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库](https://github.com/crazycodeboy/TakePhoto)</br>
+[![ui](https://raw.githubusercontent.com/crazycodeboy/TakePhoto/master/Screenshots/takephoto_preview.png "效果图")](https://github.com/crazycodeboy/TakePhoto)</br>
+56、[A Video compressor which uses ffmpeg lib for Android App- Android 视频压缩器](https://github.com/jczmdeveloper/XCVideoCompressor)</br>
+57、[仿支付宝六位密码输入框](https://github.com/huage2580/PswInputViewDemo)</br>
+[![ui](https://github.com/huage2580/PswInputViewDemo/blob/master/hello.gif "效果图")](https://github.com/huage2580/PswInputViewDemo)</br>
+58、[利用百度地图快速实现支付宝的“到位”功能](https://github.com/CarGuo/LBSMap)</br>
+[![ui](https://github.com/CarGuo/LBSMap/blob/master/01.gif "效果图")](https://github.com/CarGuo/LBSMap)</br>
+59、[TextView支持emoji表情，链接、电话和@某人特殊显示的文本](https://github.com/CarGuo/RickText)</br>
+[![ui](https://github.com/CarGuo/RickText/blob/master/device-2016-11-10-220253.mp4_1478787046.gif "效果图")](https://github.com/CarGuo/RickText)</br>
+60、[Fresco 的封装，快速上手，图像后处理，超大图高清预览，缩小放大，双击放大等一一俱全](https://github.com/CarGuo/FrescoUtils)</br>
+[![ui](https://github.com/CarGuo/FrescoUtils/blob/master/02.gif "效果图")](https://github.com/CarGuo/FrescoUtils)</br>
+61、[Android NFC项目，读写NDEF格式文本数据、Uri数据，非NDEF格式](https://github.com/smartbetter/AndroidNFC)</br>
+[![ui](https://raw.githubusercontent.com/smartbetter/AndroidNFC/master/website/static/screenshot.jpg "效果图")](https://github.com/smartbetter/AndroidNFC)</br>
+62、[Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件](https://github.com/bingoogolapple/BGAPhotoPicker-Android)</br>
+[![ui](https://cloud.githubusercontent.com/assets/8949716/17476407/7d54831e-5d92-11e6-83d0-4049039e0899.gif "效果图")](https://github.com/bingoogolapple/BGAPhotoPicker-Android)</br>
+[![ui](https://cloud.githubusercontent.com/assets/8949716/18590019/cde4acdc-7c5f-11e6-8877-b702aba7ae0c.png "效果图")](https://github.com/bingoogolapple/BGAPhotoPicker-Android)</br>
+63、[Android 仿 iOS UINavigationBar 风格的 TitleBar，适用于某些 UI 设计师只出 iOS 效果图的项目](https://github.com/bingoogolapple/BGATitleBar-Android)</br>
+[![ui](https://cloud.githubusercontent.com/assets/8949716/17476247/99c19a10-5d91-11e6-85b1-55764481686e.gif "效果图")](https://github.com/bingoogolapple/BGATitleBar-Android)</br>
+[![ui](https://cloud.githubusercontent.com/assets/8949716/18605827/7bd49bc0-7cd0-11e6-8569-b70c97ee3ff3.gif "效果图")](https://github.com/bingoogolapple/BGATitleBar-Android)</br>
+[![ui](https://cloud.githubusercontent.com/assets/8949716/20560633/5e138154-b1b5-11e6-8824-b212438a1cf8.png "效果图")](https://github.com/bingoogolapple/BGATitleBar-Android)</br>
+64、[RxJava + Retrofit 下载新版 apk 文件，RxBus 监听下载进度](https://github.com/bingoogolapple/BGAUpdate-Android)</br>
+[![ui](https://cloud.githubusercontent.com/assets/8949716/21256759/256dce3e-c3af-11e6-98b3-373afcfa4cce.gif "效果图")](https://github.com/bingoogolapple/BGAUpdate-Android)</br>
+65、[验证码](https://github.com/Airsaid/VerifyCodeButton)</br>
+[![ui](https://github.com/Airsaid/VerifyCodeButton/blob/master/gif/VerifyCodeButton.gif "效果图")](https://github.com/Airsaid/VerifyCodeButton)</br>
+66、[android多图选择 图片/视频 单选or多选，以及视频录制，专治各种机型不适](https://github.com/huihui4045/PictureSelector)</br>
+[![ui](https://github.com/huihui4045/PictureSelector/blob/master/image/0F918EB15954836F59A95A3F7E0D2012.jpg "效果图")](https://github.com/huihui4045/PictureSelector)</br>
+[![ui](https://github.com/huihui4045/PictureSelector/blob/master/image/2AEDE4E52CC095F5896E066C59DDDF85.jpg "效果图")](https://github.com/huihui4045/PictureSelector)</br>
+[![ui](https://github.com/huihui4045/PictureSelector/blob/master/image/E3B380A383193B1FB00E8518AA9FA930.jpg "效果图")](https://github.com/huihui4045/PictureSelector)</br>
+[![ui](https://github.com/huihui4045/PictureSelector/blob/master/image/BA7C4A038613182020DA9CE0152DA5D4.jpg "效果图")](https://github.com/huihui4045/PictureSelector)</br>
+67、[一步集成侧滑(删除)菜单，高仿QQ、IOS。史上最简单](https://github.com/huihui4045/SwipeDelMenuLayout)</br>
+[![ui](https://github.com/mcxtzhang/SwipeDelMenuLayout/blob/master/gif/ItemDecorationIndexBar_SwipeDel.gif "效果图")](https://github.com/huihui4045/SwipeDelMenuLayout)</br>
+[![ui](https://github.com/mcxtzhang/SwipeDelMenuLayout/blob/master/gif/LinearLayoutManager1.gif "效果图")](https://github.com/huihui4045/SwipeDelMenuLayout)</br>
