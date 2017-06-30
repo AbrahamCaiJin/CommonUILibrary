@@ -98,7 +98,7 @@
 48、[Android仿跟谁学app中的课程表](http://blog.csdn.net/qq_17387361/article/details/52778065)</br>
 [![ui](http://img.blog.csdn.net/20161010150717404 "效果图")](http://blog.csdn.net/qq_17387361/article/details/52778065)</br>
 49、[仿泰捷视频最新TV版 Metro UI效和仿腾讯视频TV版(云视听·极光) 列表页](https://github.com/hejunlin2013/TVSample)</br>
-[![ui]https://github.com/hejunlin2013/TVSample/blob/master/images/device-2016-10-13-170829.png "效果图")](https://github.com/hejunlin2013/TVSample)</br>
+[![ui](https://github.com/hejunlin2013/TVSample/blob/master/images/device-2016-10-13-170829.png "效果图")](https://github.com/hejunlin2013/TVSample)</br>
 50、[模仿知乎的底部导航栏](https://github.com/youngkaaa/NavigationBottomDemo1)</br>
 [![ui](https://raw.githubusercontent.com/youngkaaa/NavigationBottomDemo1/master/app/screens/record.gif "效果图")](https://github.com/youngkaaa/NavigationBottomDemo1)</br>
 51、[android超级视频播放器. 集成android流媒体处理的主流框架，vitamio, ijkplayer等等。使用不同的主流框架实现播放本地视频，网络视频，直播等功能](https://github.com/curtis2/SuperVideoPlayer)</br>
