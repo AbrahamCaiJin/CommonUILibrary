@@ -141,4 +141,15 @@
 [![ui](https://github.com/huihui4045/PictureSelector/blob/master/image/BA7C4A038613182020DA9CE0152DA5D4.jpg "效果图")](https://github.com/huihui4045/PictureSelector)</br>
 67、[一步集成侧滑(删除)菜单，高仿QQ、IOS。史上最简单](https://github.com/huihui4045/SwipeDelMenuLayout)</br>
 [![ui](https://github.com/mcxtzhang/SwipeDelMenuLayout/blob/master/gif/ItemDecorationIndexBar_SwipeDel.gif "效果图")](https://github.com/huihui4045/SwipeDelMenuLayout)</br>
-[![ui](https://github.com/mcxtzhang/SwipeDelMenuLayout/blob/master/gif/LinearLayoutManager1.gif "效果图")](https://github.com/huihui4045/SwipeDelMenuLayout)</br>
+[![ui](https://github.com/mcxtzhang/SwipeDelMenuLayout/blob/master/gif/LinearLayoutManager1.gif "效果图")](https://github.com/huihui4045/SwipeDelMenuLayout)</br></br>
+#贴图片严重影响了网页的加载速度，以下的就不在贴效果图，有好的解决办法的可以提一下issue。
+68、[电动车android端项目源码，该app类似摩拜单车app](https://github.com/CuteyBoy/Electrocar)</br>
+69、[类似于映客，快手，等直播APP布局，直播刷礼物特效，定时清除礼物，计时器，圆形头像，横向listview等](https://github.com/Qiang3570/LiveLayout)</br>
+70、[直播点赞动画实现，异步线程绘制动画，再也不担心UI卡顿了](https://github.com/hidaron/HiPraiseAnimation)</br>
+71、[安卓选择器类库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、职业、学历、星座等）、城市地址选择器（分省级、地级及县级）、数字选择器（可用于年龄、身高、体重、温度等）等……可以切换不同的模式（目前有普通模式，3d滚轮模式）](https://github.com/addappcn/android-pickers)</br>
+72、[Android自定义控件项目，汽车速度计控件，支持加速减速，指定速度值，更新总里程和获取当前速度相关](https://github.com/smartbetter/AndroidSpeedometer)</br>
+
+
+
+
+
