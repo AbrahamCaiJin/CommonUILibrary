@@ -142,7 +142,7 @@
 67、[一步集成侧滑(删除)菜单，高仿QQ、IOS。史上最简单](https://github.com/huihui4045/SwipeDelMenuLayout)</br>
 [![ui](https://github.com/mcxtzhang/SwipeDelMenuLayout/blob/master/gif/ItemDecorationIndexBar_SwipeDel.gif "效果图")](https://github.com/huihui4045/SwipeDelMenuLayout)</br>
 [![ui](https://github.com/mcxtzhang/SwipeDelMenuLayout/blob/master/gif/LinearLayoutManager1.gif "效果图")](https://github.com/huihui4045/SwipeDelMenuLayout)</br></br>
-#贴图片严重影响了网页的加载速度，以下的就不在贴效果图，有好的解决办法的可以提一下issue。
+# 贴图片严重影响了网页的加载速度，以下的就不在贴效果图，有好的解决办法的可以提一下issue。
 68、[电动车android端项目源码，该app类似摩拜单车app](https://github.com/CuteyBoy/Electrocar)</br>
 69、[类似于映客，快手，等直播APP布局，直播刷礼物特效，定时清除礼物，计时器，圆形头像，横向listview等](https://github.com/Qiang3570/LiveLayout)</br>
 70、[直播点赞动画实现，异步线程绘制动画，再也不担心UI卡顿了](https://github.com/hidaron/HiPraiseAnimation)</br>
