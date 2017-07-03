@@ -148,8 +148,10 @@
 70、[直播点赞动画实现，异步线程绘制动画，再也不担心UI卡顿了](https://github.com/hidaron/HiPraiseAnimation)</br>
 71、[安卓选择器类库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、职业、学历、星座等）、城市地址选择器（分省级、地级及县级）、数字选择器（可用于年龄、身高、体重、温度等）等……可以切换不同的模式（目前有普通模式，3d滚轮模式）](https://github.com/addappcn/android-pickers)</br>
 72、[Android自定义控件项目，汽车速度计控件，支持加速减速，指定速度值，更新总里程和获取当前速度相关](https://github.com/smartbetter/AndroidSpeedometer)</br>
-
-
-
+73、[儿童教育类APP](https://github.com/sunshinewei/ChildrenEduction)</br>
+74、[这个小demo用到了本地数据库sqlite和cardview、圆形头像、背景虚化和弹出框等](https://github.com/baowenqing/Test)</br>
+75、[应用MpChat第三方控件实现柱状图，饼状图，曲线图；支付及提现的流程；自定义圆形进度条显示比例；头像的图片的处理](https://github.com/783491064/JinrongP2p)</br>
+76、[一款基于LBS的美食发现APP](https://github.com/Sambor123/foodie-app)</br>
+77、[Android点赞+1效果，支持文本和图像](https://github.com/venshine/GoodView)</br>
 
 
