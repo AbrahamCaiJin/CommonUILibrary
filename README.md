@@ -159,5 +159,5 @@
 75、[应用MpChat第三方控件实现柱状图，饼状图，曲线图；支付及提现的流程；自定义圆形进度条显示比例；头像的图片的处理](https://github.com/783491064/JinrongP2p)</br>
 76、[一款基于LBS的美食发现APP](https://github.com/Sambor123/foodie-app)</br>
 77、[Android点赞+1效果，支持文本和图像](https://github.com/venshine/GoodView)</br>
-
-
+78、[完整的筛选器解决方案](https://github.com/baiiu/DropDownMenu)</br>
+[![ui](https://github.com/baiiu/DropDownMenu/blob/master/images/dropDownMenu.gif "效果图")](https://github.com/baiiu/DropDownMenu)</br>
