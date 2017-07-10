@@ -161,3 +161,51 @@
 77、[Android点赞+1效果，支持文本和图像](https://github.com/venshine/GoodView)</br>
 78、[完整的筛选器解决方案](https://github.com/baiiu/DropDownMenu)</br>
 [![ui](https://github.com/baiiu/DropDownMenu/blob/master/images/dropDownMenu.gif "效果图")](https://github.com/baiiu/DropDownMenu)</br>
+79、[仿闲鱼底部菜单](https://github.com/NoCodeNoWife/LLRiseTabBar-Android)</br>
+80、[Android实用View:炫酷的进度条](https://github.com/lygttpod/AndroidCustomView)</br>
+[![ui](https://camo.githubusercontent.com/481fa0420a58958873b2d3a6403c04e4380fbb9b/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323035373530312d363135616435666539376661663738322e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970 "效果图")](https://github.com/lygttpod/AndroidCustomView)</br>
+[![ui](https://camo.githubusercontent.com/1a97fdc28bef6913a72826dab2cf65f7bfb35bff/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323035373530312d613761373531623435366232353439342e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970 "效果图")](https://github.com/lygttpod/AndroidCustomView)</br>
+https://camo.githubusercontent.com/5eaf72f31f19b305fff1a9967a455053e1354c84/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323035373530312d306431313139373231343239626637312e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970 "效果图")](https://github.com/lygttpod/AndroidCustomView)</br>
+81、[android仿ios时间控件](http://blog.csdn.net/jdsjlzx/article/details/47057459)</br>
+82、[每个App都会用到的LoadingLayout](https://juejin.im/post/583c242061ff4b006b59c7fb)</br>
+83、Android酷炫实用的开源框架（UI框架）](http://www.tuicool.com/articles/RFBbq2E)</br>
+84、[支持TextView上超链接可以点击，获取网址并跳转，支持特定文字的着色和处理，并且可以点击](https://github.com/loonggg/TextViewSpanLink)</br>
+85、[MaterialDesign系列控件讲解](https://github.com/loonggg/MaterialDesignDemo)</br>
+86、[一个简单的gif图片加载](https://github.com/loonggg/GifViewDemo)</br>
+87、[自定义下拉选择 、时间选择控件、省市区、多选对话框 、二级分类多选、列表二级分类选择](https://github.com/louisgeek/LouisDropDownView)</br>
+[![ui](https://github.com/louisgeek/LouisDropDownView/blob/master/screenshots/pic1.png "效果图")](https://github.com/louisgeek/LouisDropDownView)</br>
+[![ui](https://github.com/louisgeek/LouisDropDownView/blob/master/screenshots/pic6.png "效果图")](https://github.com/louisgeek/LouisDropDownView)</br>
+88、[仿造android端闲鱼发布选择价格数字键盘，自定义数字键盘](https://github.com/xuejinwei/NumberKeyboard)</br>
+89、[仿闲鱼首页，“底部加号弹出菜单选项” 界面，动画效果可能跟闲鱼有点不一样](https://github.com/494293346/rotateMenu)</br>
+90、[模仿闲鱼做的状态指示器(类似stepview)](https://github.com/twiceyuan/StatusView)</br>
+91、[模仿闲鱼里面价格输入的键盘控件](https://github.com/chenwei910101/CWNumberKeyboardDemo)</br>
+92、[即时聊天app 可以正常聊天加好友 有正式服务器](http://www.eoeandroid.com/thread-921531-1-1.html)</br>
+93、[Android开发之优秀demo整理（持续更新）](http://www.jianshu.com/p/99254621b5a6)</br>
+94、[Android开源：BeautifulRefreshLayout-优秀的下拉刷新合集](http://www.open-open.com/lib/view/open1481528362652.html)</br>
+95、[一个底部导航栏, 实现了显示未读消息数, 显示红点等效果的封装](https://github.com/smashinggit/Android-NavMenuLayout)</br>
+96、[MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)</br>
+97、[Android 模仿微信选择图片](https://mp.weixin.qq.com/s?__biz=MzIxNzU1Nzk3OQ==&mid=2247484261&idx=1&sn=1cab753dfd1e4e17b6d38e88c53410bc&chksm=97f6bdd1a08134c7032f661a585c3d9b8acb84376296b42fd214498639d2bc183ee9653dcbbe&mpshare=1&scene=23&srcid=0331gIKmd9dcrDC2R0hxiV3a#rd)</br>
+98、[可以根据图片内容变阴影颜色，更加细腻的阴影效果](https://github.com/yingLanNull/ShadowImageView)</br>
+99、[Library that enables TextView of ImageView to show loading animation while waiting for the text and image get loaded](https://github.com/elye/loaderviewlibrary)</br>
+[![ui](https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966 "效果图")](https://github.com/elye/loaderviewlibrary)</br>
+100、[A beautiful, slim Android ProgressBar](https://github.com/AnyLifeZLB/NumberProgressBar)</br>
+[![ui](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966 "效果图")](https://github.com/AnyLifeZLB/NumberProgressBar)</br>
+101、[Image Picker like Wechat](https://github.com/donglua/PhotoPicker)</br>
+102、[Android 结合RecyclerView 实现时间轴TimeLine](https://github.com/AnyLifeZLB/TimelineByRecyclerView)</br>
+103、[Android 弹幕，滚动字幕，如新闻联播下面的滚动字幕，可以使用在广告机，机顶盒，TV App等各种信息发布系统](https://github.com/AnyLifeZLB/ScrollTextView)</br>
+104、[Http Request by HttpURLConnection](https://github.com/AnyLifeZLB/AndroidHttpURLConnection)</br>
+105、[Custom VideoView: 删除提示信息，循环播放](https://github.com/AnyLifeZLB/VideoPlay)</br>
+106、[Github Android client(rxjava + retrofit2 + databind + picasso+ material design + ormlite)](https://github.com/AnyLifeZLB/GithubLife)</br>
+107、[一个收集妹纸图片的App,提供Kotlin版本](https://github.com/Assassinss/pretty-girl)</br>
+108、[SpringView](https://github.com/liaoinstan/SpringView)</br>
+109、[构建一个Android App 需要的基本东西，登录，JsBridge,ORM DB(update etc)，Retrofit2+Rxjava2再封装，Toolbar 处理，BaseActivity，proguard,rxjava2,webview 新进程中调用Native 拍照等](https://github.com/AnyLifeZLB/AndroidAppFrameWork)</br>
+110、[Android MVP Architecture Study](https://github.com/Rukey7/MvpApp)</br>
+111、[RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap)</br>
+112、[整理收藏一些不错的关于Git的文章，电子书，以及一些常见问题的解决方法](https://github.com/AnyLifeZLB/Doc/tree/master/Git)</br>
+113、[蒙版Demo](https://github.com/AnyLifeZLB/MaterialIntroView-master)</br>
+114、[android java and javascript bridge](https://github.com/lzyzsd/JsBridge)</br>
+115、[使用support.v4包下的ViewDragHelper实现QQ5.0侧滑](https://github.com/FreeSunny/DragLayout)</br>
+116、[Android Video Player , Like NetEaseNews Video Player](https://github.com/AnyLifeZLB/AndroidVideoPlayer)</br>
+117、[图片浏览缩放控件](https://github.com/bm-x/PhotoView)</br>
+118、[基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度](https://github.com/sfsheng0322/GlideImageView)</br>
+
