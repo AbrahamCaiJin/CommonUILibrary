@@ -168,7 +168,7 @@
 [![ui](https://camo.githubusercontent.com/5eaf72f31f19b305fff1a9967a455053e1354c84/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323035373530312d306431313139373231343239626637312e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970 "效果图")](https://github.com/lygttpod/AndroidCustomView)</br>
 81、[android仿ios时间控件](http://blog.csdn.net/jdsjlzx/article/details/47057459)</br>
 82、[每个App都会用到的LoadingLayout](https://juejin.im/post/583c242061ff4b006b59c7fb)</br>
-83、Android酷炫实用的开源框架（UI框架）](http://www.tuicool.com/articles/RFBbq2E)</br>
+83、[Android酷炫实用的开源框架（UI框架）](http://www.tuicool.com/articles/RFBbq2E)</br>
 84、[支持TextView上超链接可以点击，获取网址并跳转，支持特定文字的着色和处理，并且可以点击](https://github.com/loonggg/TextViewSpanLink)</br>
 85、[MaterialDesign系列控件讲解](https://github.com/loonggg/MaterialDesignDemo)</br>
 86、[一个简单的gif图片加载](https://github.com/loonggg/GifViewDemo)</br>
@@ -208,4 +208,4 @@
 116、[Android Video Player , Like NetEaseNews Video Player](https://github.com/AnyLifeZLB/AndroidVideoPlayer)</br>
 117、[图片浏览缩放控件](https://github.com/bm-x/PhotoView)</br>
 118、[基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度](https://github.com/sfsheng0322/GlideImageView)</br>
-
+119、[Android酷炫自定义控件(View)汇总](https://github.com/madongqiang2201/views/blob/master/README.md)</br>
