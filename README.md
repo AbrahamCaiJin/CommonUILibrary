@@ -209,3 +209,91 @@
 117、[图片浏览缩放控件](https://github.com/bm-x/PhotoView)</br>
 118、[基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度](https://github.com/sfsheng0322/GlideImageView)</br>
 119、[Android酷炫自定义控件(View)汇总](https://github.com/madongqiang2201/views/blob/master/README.md)</br>
+120、[hellocharts-android-Android 图表开源库的使用 ](https://juejin.im/entry/58637011ac502e006745f90f/view)</br>
+121、[自定义图表](http://blog.csdn.net/mingyunxiaohai/article/category/6068840)</br>
+122、[最牛逼android上的图表库MpChart](http://blog.csdn.net/hejjunlin/article/details/51774964)</br>
+123、[定值范围选择控件](https://github.com/Brioal/RangeSeekBar)</br>
+124、[Android自定义控件之TabSelectorLayout(微信tab)](http://thinkdevos.net/blog/20160920/android-tabselectorlayout/)</br>
+125、[AchartEngine制作图表](http://blog.csdn.net/tyk0910/article/details/50037701)</br>
+126、[利用Android图表库MPAndroidChart实现饼状图](http://www.open-open.com/lib/view/open1438610280942.html)</br>
+127、[最流行的android组件大全](http://blog.csdn.net/smallnest/article/details/38658593/)</br>
+128、[Android 弹无虚发之第四弹：你应该掌握的Notification（Notification的通知栏常驻、Notification的各种样式、Notification点击无效）](http://blog.csdn.net/xy_nyle/article/details/19853591)</br>
+129、[Android仿QQ长按删除弹出框](http://blog.csdn.net/shangmingchao/article/details/50244161)</br>
+130、[Android基于Bmob群聊功能的实现](http://blog.csdn.net/shangmingchao/article/details/50548898)</br>
+131、[ 实现录音时随声音大小变化的UI，以及文件上传功能](http://blog.csdn.net/kongxiuqi/article/details/50865984)</br>
+132、[ 基于百度推送android notification的使用之合并通知栏](http://blog.csdn.net/kongxiuqi/article/details/50477749)</br>
+133、[Android 通知栏Notification的整合 全面学习 （一个DEMO让你完全了解它）](http://blog.csdn.net/vipzjyno1/article/details/25248021)</br>
+134、[仿照[开眼视频]客户端做的一个App](https://www.ctolib.com/OpenEyes.html)</br>
+135、[一个简单，干净，漂亮的剪切版管理Android app](https://www.ctolib.com/Clip-Stack.html)</br>
+136、[一个基于 Xmpp 协议的即时通讯社交软件(客户端+服务端)](https://www.ctolib.com/yyquan.html)</br>
+137、[Pedometer 一个简单，轻量的计步器app，使用硬件传感器计算步数](https://www.ctolib.com/Pedometer-Android.html)</br>
+138、[一款在线视频 App，基于 Material Design + MVP + RxJava + Retrofit + Realm + Glide](https://www.ctolib.com/Ghosta.html)</br>
+139、[大象是 PHPHub 社区非官方 Android 客户端](https://www.ctolib.com/Elephant.html)</br>
+140、[门窗 DIY 软件](https://github.com/Freelander/DoorFrame)</br>
+141、[android material design 风格项目整理](https://github.com/Freelander/android-material-design-Open-source-projects)</br>
+142、[自己总结的Android开源项目及库](https://github.com/Freelander/TimLiu-Android)</br>
+143、[Android 开发中的日常积累](https://github.com/Freelander/CoreLink)</br>
+144、[你想要的 Material Design 的一切都在这里](https://github.com/Freelander/material-design-data)</br>
+145、[一个seekBar的源码例子，当拖动SeekBar时上面会有一个弹框显示进度](http://www.eoeandroid.com/thread-912123-1-1.html)</br></br>
+146、[记录个人IM编程的成长历程（MVP+Dagger2+RxJava+Asmack+Openfire）](https://github.com/genius158/IMClientProject)</br>
+147、[MagicaSakura 是 Android 多主题框架](https://github.com/genius158/MagicaSakura)</br>
+148、[音乐播放器](https://github.com/genius158/Music-Player)</br>
+149、[音乐播放器](https://github.com/genius158/android-UniversalMusicPlayer)</br>
+150、[节操视频播放器](https://github.com/genius158/JieCaoVideoPlayer)</br></br>
+151、[Button特效](https://github.com/ChadCSong/ShineButton)</br>
+152、[橡皮擦效果](https://github.com/dynamitechetan/FogView_Library)</br>
+153、[仿qq侧滑删除](https://github.com/genius158/AndroidSwipeLayout)</br>
+154、[添加热门标签](https://github.com/HeZaiJin/SlantedTextView/blob/master/README-cn.md)</br>
+155、[android 列表倒计时流畅的完美实现](http://blog.csdn.net/gengqiquan/article/details/50541007)</br>
+156、[A powerful library that manage Fragment for Android](https://github.com/YoKeyword/Fragmentation)</br>
+157、[Material-Animations](https://github.com/lgvalle/Material-Animations)</br>
+158、[Android 自绘动画效果---小清新等待](http://blog.csdn.net/songxin393764941/article/details/54561654)</br>
+159、[WechatLuckyMoney(微信红包插件)](https://github.com/veryyoung/WechatLuckyMoney)</br></br>
+160、[自定义RadioGroup样式](http://blog.csdn.net/u010911386/article/details/52904165)</br>
+161、[音乐搜索器 - 开源共享版](https://github.com/Qrilee/music)</br>
+162、[广告快走中国版](https://github.com/Qrilee/AdawayCN)</br>
+163、[基于 Flask 框架搭建的一个播放器，音乐源来自虾米、网易云音乐。在线音乐播放器。支持、封面歌词显示，歌曲下载以及微博分享](https://github.com/Qrilee/rpmusic)</br>
+164、[高仿网易云音乐](https://github.com/goo4it/MediaPlayer)</br>
+165、[MFree——开源音乐播放器](https://github.com/afeilo/MFree)</br>
+166、[仿bl杂志](https://github.com/Qrilee/beautyleg)</br>
+167、[Rosi套图爬虫](https://github.com/Qrilee/Rosi)</br>
+168、[音乐播放器](https://github.com/Qrilee/MusicUU)</br>
+169、[Android最佳实践示例](https://github.com/tianzhijiexian/Android-Best-Practices)</br>
+170、[Luban(鲁班)--可能是最接近微信朋友圈的图片压缩算法](https://github.com/Curzibn/Luban)</br>
+171、[高仿京东商城 ](http://www.devstore.cn/code/info/87.html)</br>
+172、[Android图片多选器](http://www.devstore.cn/code/info/1660.html)</br>
+173、[类似手机QQ界面右上角的弹出菜单](https://github.com/zaaach/TopRightMenu)</br>
+174、[JAViewer--质感设计 更优雅的驾车体验](https://github.com/SplashCodes/JAViewer#javiewer)</br>
+175、[加载大图显示百分比](https://github.com/Piasy/BigImageViewer)</br>
+176、[简单的狼人杀APP](http://www.eoeandroid.com/thread-923352-1-1.html)</br>
+177、[仿京东商品列表页面，需要的拿走](http://www.eoeandroid.com/thread-577988-1-1.html)</br>
+178、[京东天猫刷新动画](http://www.eoeandroid.com/thread-924625-1-1.html)</br>
+179、[Android 自定义View 仿蚂蚁信用分析(正多边形)](http://blog.csdn.net/jjwwmlp456/article/details/53607293)</br>
+180、[Android 带checkbox的listView 实现多选，全选，反选](http://blog.csdn.net/qq_17007915/article/details/51736059)</br>
+181、[Android 欢迎引导页的魅力](http://blog.csdn.net/qq_17007915/article/details/50731460)</br>
+182、[蓝牙即时通信，仿微信， 实现自动配对](https://github.com/Justson/BluetoothChatting)</br>
+183、[仿照着知乎写了一套UI界面](http://www.apkbus.com/forum.php?mod=viewthread&tid=269087&highlight=%E7%9F%A5%E4%B9%8E)</br>
+184、[几种常见Dialog，懒人必收](http://www.jianshu.com/p/8cb2e709891c)</br>
+185、[Android流式布局，支持单选、多选等，适合用于产品标签等](https://github.com/hongyangAndroid/FlowLayout)</br>
+186、[基于DragLayout的拓展代码，仿酷狗音乐QQ等简单的侧滑菜单功能，基本项目架构，新增右侧功能选项，新增滑动删除，新增粘性控件](https://github.com/Qiang3570/DragLayoutExpand)</br>
+187、[mvp设计模式写的项目--项目内容：看房混搭百思不得姐](https://github.com/RealMoMo/MVP_Project)</br>
+188、[高仿QQ看房app](https://github.com/RealMoMo/kanfang)</br>
+189、[新开源的日历选择，时间段选择](https://github.com/mrme2014/MonthView)</br>
+190、[一个用于app指向性功能高亮的库](https://github.com/hongyangAndroid/Highlight)</br>
+191、[Android 平台的滑动验证码](https://github.com/mcxtzhang/SwipeCaptcha)</br>
+192、[定义SeekBar，进度变化由可视化气泡样式呈现](https://github.com/woxingxiao/BubbleSeekBar)</br>
+193、[Android头像下拉缩放动效](http://blog.csdn.net/u012301841/article/details/45875421)</br>
+194、[制作明信片图片的app](https://github.com/xingkongus/superXingPostCard)</br>
+195、[趣刻 Android APP](https://github.com/hugeterry/coderfun)</br>
+196、[导入图片生成Low Poly风格图片的app](https://github.com/hugeterry/PloyFun)</br>
+197、[打算写一些漂亮好用的组件库](https://github.com/GordenXiao/Magical_Widgets)</br>
+198、[可以实现本地播放和在线播放，服务开机自启，四大组件全部用到，数据库GreenDao，网络请求volley](https://github.com/dearHaoGeGe/NullPointerPlayer)</br>
+199、[安卓项目：数据库中按级别查询出各段数据，使用listview、expandableListView、tableLayout、等视图显示，统计汇总控件使用GridLayout自定义实现表格行列任意组合，其中设备列表使用TreeAdapter自定义树形列表](https://github.com/legolas-GG/StandingBook)</br>
+200、[出行小工具毕设demo ](http://www.eoeandroid.com/thread-924814-1-1.html)</br>
+201、[图片3D轮转效果](https://github.com/dolphinwang/ImageCoverFlow)</br>
+202、[7 行 Transformer 代码让 ViewPager 有 3D Gallery 效果](https://github.com/twiceyuan/GalleryViewPager)</br>
+
+
+
+
+
