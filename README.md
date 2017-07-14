@@ -293,7 +293,10 @@
 201、[图片3D轮转效果](https://github.com/dolphinwang/ImageCoverFlow)</br>
 202、[7 行 Transformer 代码让 ViewPager 有 3D Gallery 效果](https://github.com/twiceyuan/GalleryViewPager)</br>
 203、[Android智能下拉刷新框架，支持越界回弹，集成了几十种炫酷的Header和 Footer](https://github.com/scwang90/SmartRefreshLayout)</br>
-
+204、[Android 不要错过的 7 个完整项目学习](https://juejin.im/entry/58ba1cf72f301e006c5f4774)</br>
+205、[清晰灵活简单易用的应用更新库](https://github.com/czy1121/update)</br>
+206、[ Android 6.0权限封装整合](http://blog.csdn.net/qq_15950325/article/details/54983826)</br>
+207、[Android 开源项目分类汇总](https://github.com/Trinea/android-open-project)</br>
 
 
 
