@@ -301,8 +301,13 @@
 209、[滑动Layout，支持单个View，ListView，GridView,状态切换的 Button，类似 iOS，用 View 实现](http://www.apkbus.com/blog-901770-68296.html)</br>
 210、[一些实用的开源炫酷框架—值得你去了解](http://mp.weixin.qq.com/s?__biz=MzI3OTU0MzI4MQ==&mid=2247484443&idx=1&sn=67e90bfbf8d8a2cadac97578a62a9124&chksm=eb476885dc30e193d72889ecac5f6d1d13ca67a9531d9894ddb9d610ff3f9d8d38cf0763c656&mpshare=1&scene=23&srcid=0717IY9DNjtOfuDI7P6j42FH#rd)</br>
 211、[RecycleView的上拉刷新和下拉加载](https://github.com/huxq17/XRefreshView)</br></br>
-212、[FileDownLoad下载工具类](https://github.com/canyinghao/CanRefresh)</br>
+212、[FileDownLoad下载工具类]https://github.com/lingochamp/FileDownloader)</br>
 213、[一个精美的的计时器效果](https://github.com/zjutkz/CountdownView)</br>
 214、[Android-UploadMultipartImage仿照微信发说说，既能实现拍照，选图库，多图案上传 使用Retrofit技术](https://github.com/lidong1665/Android-UploadMultipartImage)</br>
 215、[Glide加载图片封装](http://download.csdn.net/detail/androidstarjack/9892366)</br>
+216、[打开网络pdfAndroidPDF](https://github.com/lidong1665/AndroidPDF)</br>
+217、[ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)</br>
+218、[Android蓝牙4.0操作demo](https://github.com/lidong1665/Android-ble)</br>
+219、[Android 快速开发库，主要想实现一条属于自己的开发框架。包括网络访问，数据，UI等等](https://github.com/lidong1665/AndroidRapidLibrary)</br>
+220、[RecyclerView打造高性能树形控件](https://github.com/shinem/TreeView)</br>
 
