@@ -313,3 +313,83 @@
 221、[DropDownView](https://github.com/AnthonyFermin/DropDownView)</br>
 222、[AgentWeb 是基于 Android WebView 一个功能完善小型浏览器库 。 使用很方便 ， 集成进你应用 ，只需几行代码](https://github.com/Justson/AgentWeb)</br>
 223、[仿qq身边的人Viewpager实现(第三种方式)](https://github.com/dalong982242260/SlidingBallViewPager)</br>
+224、[仿魅族BannerView,图片轮播控件,支持多种模式切换：普通ViewPager使用，普通Banner使用，仿魅族Banner使用](https://github.com/pinguo-zhouwei/MZBannerView)</br>
+225、[Loading加载前显示阴影部分效果](https://github.com/ethanhua/Skeleton)</br>
+226、[android 自定义日历控件 支持左右无限滑动 周月切换 标记日期显示 自定义显示效果跳转到指定日期](https://github.com/MagicMashRoom/SuperCalendar)</br>
+227、[PLDroidShortVideo 是七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发](https://github.com/pili-engineering/PLDroidShortVideo)</br>
+228、[最最轻量级的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment](https://github.com/binIoter/GuideView)</br>
+229、[Android引导蒙层，安卓新手引导图，引导图层，支持椭圆，圆形，矩形多种形状，一行代码快速搞定新手引导视图，最最轻量级的新手引导库（只有1个类），能够快速的为一个Activity里的任何一个View控件创建一个遮罩式的导航页，支持单个页面，多个引导提示](https://github.com/qiushi123/GuideView-master)</br>
+230、[遮罩层进度控件](https://github.com/thearyong/ProgressLayerView)</br>
+231、[android图片选择器,选择头像或上传图片,单选、多选图片、裁剪图片，包含圆形和方形形状的图片裁剪框](https://github.com/Joy-Whale/ImageSelector)</br>
+232、[这个小demo用到了本地数据库sqlite和cardview、圆形头像、背景虚化和弹出框。借鉴的有其他大神的开源框架，共同学习膜拜！](https://github.com/baowenqing/Test)</br>
+233、[应用MpChat第三方控件实现柱状图，饼状图，曲线图；支付及提现的流程；自定义圆形进度条显示比例；头像的图片的处理](https://github.com/783491064/JinrongP2p)</br>
+234、[像微信、QQ、微博等社交类的APP，通常都有设置圆形头像的功能，设置头像通常有两种方式： 1，让用户通过选择本地相册之类的图片库中已有的图像，裁剪后作为头像。 2，让用户启动手机的相机拍照，拍完照片后裁剪，然后作为头像](https://github.com/fuhao012/Avatar-Demo)</br>
+235、[带边框的圆形头像,可自定义颜色值,边框宽度](https://github.com/micadalee/CircleImageView)</br>
+236、[加载缩略图，获取裁剪范围，从原图上裁剪出对应的圆形头像](https://github.com/FirstLetterZ/IconClip)</br>
+237、[仿google+圆形文字头像的开源库](https://github.com/Alphrye/TextImageView)</br>
+238、[圆形头像加vip标识](https://github.com/WSILO/IdentityImageView)</br>
+239、[头像裁剪，可裁剪为圆形](https://github.com/Tryking/HeadPortraitClip_Tryking)</br>
+240、[圆形头像的绘制，点击头像的时候可以弹出popwindow来让你选择相机照相、还是选择相册里面的图片，在选择图片的时候可以调用裁剪功能，进行对相片的裁剪](https://github.com/wuyinlei/CircleImgae)</br>
+241、[圆形圆角头像，椭圆形圆角头像](https://github.com/menggang20/RoundImageView)</br>
+242、[一个能带进度条的图片框架，同时有身份标识动能，简单易用](https://github.com/385841539/IdentityImageView)</br>
+243、[仿京东快报和淘宝头条效果](https://github.com/LLhon/NewsflashView)</br>
+244、[仿淘宝首页的淘宝头条垂直滚动](https://github.com/dreamlivemeng/UpMarqueeTextView-master)</br>
+245、[图片查看器](https://github.com/SuperKotlin/PictureViewer)</br>
+246、[打造独一无二的刷新框架](https://github.com/sw950729/SWPullRecyclerLayout)</br>
+247、[仿nice图片上打标签控件](https://github.com/saiwu-bigkoo/Android-PictureTagView)</br>
+248、[目前最全的多种沉浸式状态栏实现 ProgressFragment(网络异常,数据为空,加载中视图切换) 上拉加载更多 Rxjava2.x+Retrofit2.x+OkHttp网络请求封装 Glide 4.x自定义GlideModel](https://github.com/toutoumu/ControlDemo)</br>
+249、[仿简书Popuwindow](https://github.com/jdsjlzx/Jianshupopupwindow)</br>
+250、[模拟水波纹的效果，实现流量的动态显示](https://github.com/Geekince/WaterWaveView)</br>
+251、[仿微信实现的朋友圈，模拟与后台交互实现了点赞、评论、删除等功能，listview可以根据键盘的显示或隐藏实现联动](https://github.com/supengchao/WeixinCommentListDemo)</br>
+252、[下拉刷新listview、图片联播、多线程下载器、由远到近欢迎动画、侧边栏、下拉刷新分页gridview、拍照相册取图、多张图片上传服务器、各种图表、日历选择器等等](https://github.com/1037704496/AndBaseDemo)</br>
+253、[高仿今日头条feed详情页----WebView和ListView联动](https://github.com/lorienzhang/WLLayout)</br>
+254、[整合一些平时用的联系demo 没有做具体的分类 喜欢的 可以 star一下 1 选择图片 2 城市列表选择 3 日历模块 4 轮播 5 倒计时 6 侧滑删除 7 全局异常捕获处理 8 listview 滑动放大 9 scrollview滑动放大 10 启动页倒计时 11 输入框的 正则限制 12 侧滑退出 activity 13 手势密码解锁 14 刻度尺效果 15 checkbox 和点赞动画 效果 16 富文本的学习应用](https://github.com/iamlfc/Public_Test)</br>
+255、[ Android Fingerprint Verification SDK](https://github.com/uccmawei/FingerprintIdentify/blob/master/other/README_ZH.md)</br>
+256、[判断App位于前台或者后台的6种方法](https://github.com/wenmingvs/AndroidProcess)</br>
+257、[崩溃日志上传框架](https://github.com/wenmingvs/LogReport)</br>
+258、[Android上专为视频直播打造的轻量级弹幕库（100多kb）](https://github.com/hpdx/DanmukuLight)</br>
+259、[仿喜马拉雅 安卓版，音乐播放器 在线 下载](https://github.com/qianxiangsen521/Multi-threadedDownload)</br>
+260、[让你的布局飞起来](https://github.com/chenpengfei88/StatusLayout)</br>
+261、[非常常用的设置界面条目 very useful setting item](https://github.com/leonHua/LSettingView)</br>
+262、[Marvelous sliding square loader view](https://github.com/steelkiwi/SlidingSquareLoaderView)</br></br>
+263、[citypicker 高仿iOS 滚轮实现 省市区 城市选择三级联动](https://github.com/crazyandcoder/citypicker)</br>
+264、[一种漂亮的UI控件，能更灵活的控制数字的增减 , 类似商城购物车加减控件](https://github.com/open-android/ShoppingCartAddSubtract)</br>
+265、[在QQ登录界面上加点特效](https://github.com/SuperKotlin/BalloonRelativeLayout)</br>
+266、[对RecyclerView的封装，使用简单，功能丰富](https://github.com/LRH1993/recyclerview_helper)</br>
+267、[简化RecyclerView的多种type的adapter，Fragment可以动态添加到RecyclerView上，实现复杂的界面分多个模块开发](https://github.com/LuckyJayce/MultiTypeView)</br>
+268、[Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能](https://github.com/LuckyJayce/LargeImage)</br></br>
+269、[新手引导页，轻松的实现对应的view上面的显示提示信息和展示功能给用户](https://github.com/LuckyJayce/GuideHelper)</br>
+270、[Indicator 取代 tabhost，实现网易顶部tab，新浪微博主页底部tab，引导页，无限轮播banner等效果，高度自定义tab和特效](https://github.com/LuckyJayce/ViewPagerIndicator)</br>
+271、[Debug监听程序崩溃日志,展示崩溃日志列表，方便自己平时调试](https://github.com/maning0303/MNCrashMonitor)</br>
+272、[A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.](https://github.com/PhilJay/MPAndroidChart)</br>
+273、[树形控件（a-->b）Material Design Breadcrumbs Navigation Widget on Android](https://github.com/fython/BreadcrumbsView)</br>
+274、[A demo app showing movement of car on map like in Uber.](https://github.com/amanjeetsingh150/UberCarAnimation)</br>
+275、[A recyclerview helper to simplify our work](https://github.com/chenzj-king/RvHelper)</br>
+276、[KrGallery一个集拍照和选择图片,裁剪,录制视频和选择视频的强大且流畅简洁的库](https://github.com/chengzichen/KrGallery#%E7%94%A8%E9%80%94)</br>
+277、[轻量级的Android MVP快速开发框架](https://github.com/chengzichen/XDroidMvp)</br>
+278、[android java and javascript bridge, inspired by wechat webview jsbridge](https://github.com/lzyzsd/JsBridge)</br>
+279、[App based on Material Design + MVP + Rxjava + Retrofit + Okhttp + RecyclerView + Glide + cache + theme + others + 全民直播 + 高德选址](https://github.com/SuperMan42/MVP)</br>
+280、[Sketch是Android上一个强大且全面的图片加载器，支持GIF，手势缩放以及分块显示超大图片](https://github.com/panpf/sketch)</br>
+281、[一个Android富文本类库，支持图文混排，支持编辑和预览，支持插入和删除图片](https://github.com/sendtion/XRichText)</br>
+282、[Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！](https://github.com/youth5201314/banner)</br>
+283、[A library to bring Material Design UI to pre-Lolipop Android](https://github.com/vihuela/material)</br>
+284、[A custom ViewPager title strip which gives continuous feedback to the user when scrolling](https://github.com/ogaclejapan/SmartTabLayout)</br>
+285、[集合了最新widget及一些流行写法的App框架](https://github.com/vihuela/Lulu)</br>
+286、[视频例子 http://www.imooc.com/video/7452 获得 SD卡路径一定要判断](https://github.com/zhoujiangang0911/android-weixinVideo)</br>
+287、[recycleView现在都是面向Holder，那ListView也要跟上](https://github.com/vihuela/CommonHolder)</br>
+288、[A curated list of awesome Android UI/UX libraries](https://github.com/wasabeef/awesome-android-ui)</br>
+289、[Imitation of Ali credit sesame new old ring view](https://github.com/HotBitmapGG/CreditSesameRingView)</br>
+290、[ImageSelectContainer](https://github.com/ReturnYhh/ImageSelectContainer)</br>
+291、[先显示阴影部分LazyLoadingViews](https://github.com/jineshfrancs/LazyLoadingViews)</br>
+292、[网络加载判断类型：空、错误等](https://github.com/fingdo/stateLayout/blob/master/README-zh.md)</br>
+293、[CookieBar is a lightweight library for showing a brief message at the top or bottom of the screen](https://github.com/liuguangqiang/CookieBar)</br>
+294、[A pretty progressbar](https://github.com/liuguangqiang/PrettyProgressBar)</br>
+295、[A extension of the RecyclerView that using it more easy. Features : swipe to dismiss, drag and drop](https://github.com/liuguangqiang/SuperRecyclerView)</br>
+296、[BottomSheet style dialogs for Android](https://github.com/Kennyc1012/BottomSheet)</br>
+297、[一个基于 Docker 的 Android 编译环境镜像，已安装了JDK，Android SDK，可用于持续集成](https://github.com/lijy91/ci-android)</br>
+298、[QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式](https://github.com/bingoogolapple/BGAQRCode-Android)</br>
+299、[Android BLE基础操作框架，基于回调，操作简单。其中包含扫描、连接、广播包解析、服务读写及通知等功能](https://github.com/xiaoyaoyou1212/BLE)</br>
+300、[基于RxJava2+Retrofit2精心打造的Android基础框架，包含网络、上传、下载、缓存、事件总线、权限管理、数据库、图片加载、UI模块，基本都是项目中必用功能，每个模块充分解耦，可自由拓展](https://github.com/xiaoyaoyou1212/XSnow)</br>
+301、[Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)</br>
+302、[BigImageViewer](https://github.com/Piasy/BigImageViewer)</br>
+303、[沉浸式状态栏](https://github.com/wch0620/StatusBar)</br>
