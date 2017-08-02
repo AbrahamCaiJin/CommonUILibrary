@@ -396,3 +396,15 @@
 304、[一款简洁实用的android广告栏](https://github.com/dongjunkun/BannerLayout)</br>
 305、[半圆锯齿背景虚线边框组合实现简单优惠券效果，可实现一些简单组合](https://github.com/dongjunkun/CouponView)</br>
 306、[一个实用的多条件筛选菜单（类似美团，爱奇艺电影票下拉菜单）](https://github.com/dongjunkun/DropDownMenu)</br>
+307、[ShineButton点赞等](https://github.com/ChadCSong/ShineButton)</br>
+308、[带有徽标(数字，小红点)的按钮](https://github.com/czy1121/badgebutton)</br>
+309、[一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用写selector了](https://github.com/niniloveyou/StateButton)</br>
+310、[A simple Floating Action Button that shows an anchored Navigation View](https://github.com/andremion/Floating-Navigation-View)</br>
+311、[Button which is visible while user holds it. Main use case is controlling audio recording state (like in Telegram, Viber, VK)](https://github.com/dewarder/HoldingButton)</br>
+312、[A submit button with a fun animation for Android.](https://github.com/Someonewow/SubmitButton)</br>
+313、[Animated favorite/star/like button](https://github.com/IvBaranov/MaterialFavoriteButton)</br>
+314、[A cute widget of Switch Button for you to create beautiful and friendly UI.](https://github.com/kyleduo/SwitchButton)</br>
+315、[A FloatingActionButton subclass that shows a counter badge on right top corner](https://github.com/andremion/CounterFab)</br>
+316、[ToggleButton Widget For Android Dev](https://github.com/zcweng/ToggleButton)</br>
+
+
