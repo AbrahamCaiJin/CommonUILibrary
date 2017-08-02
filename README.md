@@ -393,3 +393,6 @@
 301、[Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)</br>
 302、[BigImageViewer](https://github.com/Piasy/BigImageViewer)</br>
 303、[沉浸式状态栏](https://github.com/wch0620/StatusBar)</br>
+304、[一款简洁实用的android广告栏](https://github.com/dongjunkun/BannerLayout)</br>
+305、[半圆锯齿背景虚线边框组合实现简单优惠券效果，可实现一些简单组合](https://github.com/dongjunkun/CouponView)</br>
+306、[一个实用的多条件筛选菜单（类似美团，爱奇艺电影票下拉菜单）](https://github.com/dongjunkun/DropDownMenu)</br>
