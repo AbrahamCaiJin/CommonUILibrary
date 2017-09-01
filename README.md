@@ -406,5 +406,19 @@
 314、[A cute widget of Switch Button for you to create beautiful and friendly UI.](https://github.com/kyleduo/SwitchButton)</br>
 315、[A FloatingActionButton subclass that shows a counter badge on right top corner](https://github.com/andremion/CounterFab)</br>
 316、[ToggleButton Widget For Android Dev](https://github.com/zcweng/ToggleButton)</br>
-
-
+317、[Android WebView 详解 ](http://reezy.me/p/20170515/android-webview/)</br>
+318、[Activity滑动动画](https://github.com/gongwen/SwipeBackLayout)</br>
+319、[WebView 全方面的使用，JS交互、进度条、发短信、打电话、发邮件、上传图片、字体设置、视频全屏播放](https://github.com/youlookwhat/WebViewStudy)</br>
+320、[android仪表盘自定义demo收集](https://github.com/dalong982242260/AndroidDashboardView)</br>
+321、[足迹、轨迹地图记录、天气预报、传感器计步](https://github.com/wulee510505/zuji)</br>
+322、[仿qq、微信桌面未读消息](https://github.com/leolin310148/ShortcutBadger)</br>
+323、[自定义控件、特效的集合](https://github.com/wulee510505/TestMoudle)</br>
+324、[课程表实现](https://github.com/sherry10/miao-course-table)
+325、[本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能](https://github.com/GitLqr/LQRWeChat)
+326、[一款针对android平台下的图片选择器，支持从相册或拍照选择图片或视频、音频，支持动态权限获取、裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能、适配android 6.0+系统的开源图片选择框架](https://github.com/LuckSiege/PictureSelector)
+327、[完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数](https://github.com/GitLqr/LQRImagePicker)
+328、[一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择](https://github.com/GitLqr/LQREmojiLibrary)
+329、[集成录音与播音功能，使用简单方便](https://github.com/GitLqr/LQRAudioRecord)
+330、[对RecyclerView的封装，让其使用更加简单，得心应手](https://github.com/GitLqr/LQRRecyclerViewLibrary)
+331、[万能适配器（RecyclerView、ListView、GridView）](https://github.com/GitLqr/LQRAdapterLibrary)
+332、[]()
