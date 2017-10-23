@@ -413,12 +413,15 @@
 321、[足迹、轨迹地图记录、天气预报、传感器计步](https://github.com/wulee510505/zuji)</br>
 322、[仿qq、微信桌面未读消息](https://github.com/leolin310148/ShortcutBadger)</br>
 323、[自定义控件、特效的集合](https://github.com/wulee510505/TestMoudle)</br>
-324、[课程表实现](https://github.com/sherry10/miao-course-table)
-325、[本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能](https://github.com/GitLqr/LQRWeChat)
-326、[一款针对android平台下的图片选择器，支持从相册或拍照选择图片或视频、音频，支持动态权限获取、裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能、适配android 6.0+系统的开源图片选择框架](https://github.com/LuckSiege/PictureSelector)
-327、[完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数](https://github.com/GitLqr/LQRImagePicker)
-328、[一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择](https://github.com/GitLqr/LQREmojiLibrary)
-329、[集成录音与播音功能，使用简单方便](https://github.com/GitLqr/LQRAudioRecord)
-330、[对RecyclerView的封装，让其使用更加简单，得心应手](https://github.com/GitLqr/LQRRecyclerViewLibrary)
-331、[万能适配器（RecyclerView、ListView、GridView）](https://github.com/GitLqr/LQRAdapterLibrary)
-332、[]()
+324、[课程表实现](https://github.com/sherry10/miao-course-table)</br>
+325、[本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能](https://github.com/GitLqr/LQRWeChat)</br>
+326、[一款针对android平台下的图片选择器，支持从相册或拍照选择图片或视频、音频，支持动态权限获取、裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能、适配android 6.0+系统的开源图片选择框架](https://github.com/LuckSiege/PictureSelector)</br>
+327、[完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数](https://github.com/GitLqr/LQRImagePicker)</br>
+328、[一个超级牛逼的表情库，可使用表情及贴图功能，方便好用，抽离图片加载接口，图片加载工具可让开发者自己选择](https://github.com/GitLqr/LQREmojiLibrary)</br>
+329、[集成录音与播音功能，使用简单方便](https://github.com/GitLqr/LQRAudioRecord)</br></br>
+330、[对RecyclerView的封装，让其使用更加简单，得心应手](https://github.com/GitLqr/LQRRecyclerViewLibrary)</br>
+331、[万能适配器（RecyclerView、ListView、GridView）](https://github.com/GitLqr/LQRAdapterLibrary)</br>
+332、[大牛直播，跨平台(windows/android/iOS)推送(rtmp)、播放器(rtmp/rtsp)，支持录像、导播、动态视频合成、实时快照、水印、音频混音、互动等，国内外为数不多不依赖开源框架，业界真正靠谱的超低延迟(1秒左右)](https://github.com/daniulive/SmarterStreaming)</br>
+333、[优雅地处理加载中，重试，无数据等](https://github.com/KingJA/LoadSir)</br>
+334、[一套完整有效的android组件化方案，支持组件的单独调试、集成调试、组件交互、UI跳转、动态加载卸载、组件完全隔离等功能](https://github.com/luojilab/DDComponentForAndroid)</br>
+335、[提高 Android UI 开发效率的 UI 库](https://github.com/QMUI/QMUI_Android)</br>
