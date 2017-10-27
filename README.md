@@ -425,8 +425,8 @@
 333、[优雅地处理加载中，重试，无数据等](https://github.com/KingJA/LoadSir)</br>
 334、[一套完整有效的android组件化方案，支持组件的单独调试、集成调试、组件交互、UI跳转、动态加载卸载、组件完全隔离等功能](https://github.com/luojilab/DDComponentForAndroid)</br>
 335、[提高 Android UI 开发效率的 UI 库](https://github.com/QMUI/QMUI_Android)</br>
-336、[仿写薄荷健康体重选择控件——Hencoder「仿写酷界面」活动](https://github.com/totond/BooheeRuler)
-337、[【仿写酷界面】【HenCoder】仿小米运动的运动记录界面](https://github.com/SickWorm/MISportsConnectWidget)
-338、[视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg](https://github.com/CarGuo/GSYVideoPlayer)
-339、[]()
+336、[仿写薄荷健康体重选择控件——Hencoder「仿写酷界面」活动](https://github.com/totond/BooheeRuler)</br>
+337、[【仿写酷界面】【HenCoder】仿小米运动的运动记录界面](https://github.com/SickWorm/MISportsConnectWidget)</br>
+338、[视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg](https://github.com/CarGuo/GSYVideoPlayer)</br>
+339、[]()</br>
 
