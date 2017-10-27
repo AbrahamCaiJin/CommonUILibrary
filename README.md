@@ -428,5 +428,13 @@
 336、[仿写薄荷健康体重选择控件——Hencoder「仿写酷界面」活动](https://github.com/totond/BooheeRuler)</br>
 337、[【仿写酷界面】【HenCoder】仿小米运动的运动记录界面](https://github.com/SickWorm/MISportsConnectWidget)</br>
 338、[视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg](https://github.com/CarGuo/GSYVideoPlayer)</br>
-339、[]()</br>
+339、[点赞图标和数字动画](https://github.com/binqiangsun/IconCountView)</br>
+340、[Render After Effects / Animate CC (Flash) animations natively on Android and iOS, Web. 使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画](https://github.com/yyued/SVGAPlayer-Android)</br>
+341、[自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 自动摘要 短语提取 拼音 简繁转换](https://github.com/hankcs/HanLP)</br>
+342、[本库主要提供一个简单易用的自定义分段控件，方便快速实现分段效果，支持xml配置、代码配置、分段规则按均分/比例分、数字分段、文本分段、渐变分段、bar条样式正常/圆形/三角形，segment文字样式、进度设置、进度标记类型设置、分段描述设置、其它更多自定义设置等功能。](https://github.com/zhou-you/EasySegmentedBarView)</br>
+343、[渐变颜色渐变文字渐变图像](https://github.com/AndroidMsky/GradualView)</br>
+344、[Android 100 TOP Projects all over the github (Android百大框架排行榜)](https://github.com/ShaunSheep/Android_100_TOP-Projects)</br>
+345、[高仿bilibili安卓客户端](https://github.com/GitLqr/LQRBiliBlili)</br>
+346、[a Third-party Android App of DiyCode Community ](https://github.com/linsneider/DiyCodeAndroid)</br>
+347、[]()</br>
 
