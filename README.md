@@ -462,6 +462,6 @@
 370、[（Material Design & MVP & Retrofit + OKHttp & RecyclerView ...）Gank.io Android客户端：每天一张美女图片，一个视频短片，若干Android，iOS等程序干货，周一到周五每天更新，数据全部由 干货集中营 提供。](https://github.com/maning0303/GankMM)</br>
 371、[这是一款自定义日期时间选择器](https://github.com/lyxRobert/SelectDateAndTime)</br>
 372、[Android-AppBarLayout-TabLayout-RecyclerView-ViewPager-Fragment](https://github.com/lyxRobert/Android-AppBarLayout-TabLayout-RecyclerView-ViewPager-Fragment)</br>
-373、[]()</br>
-374、[]()</br>
-375、[]()</br>
+373、[利用FFmpeg视频录制微信小视频与其压缩处理](https://github.com/mabeijianxi/small-video-record)</br>
+374、[大图查看器](https://github.com/mabeijianxi/ViewLargerImageUtil)</br>
+375、[类似微信朋友圈QQ空间图文展示的列表](https://github.com/mabeijianxi/Circle-of-friends)</br>
