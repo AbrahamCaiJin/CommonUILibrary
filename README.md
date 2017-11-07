@@ -465,3 +465,9 @@
 373、[利用FFmpeg视频录制微信小视频与其压缩处理](https://github.com/mabeijianxi/small-video-record)</br>
 374、[大图查看器](https://github.com/mabeijianxi/ViewLargerImageUtil)</br>
 375、[类似微信朋友圈QQ空间图文展示的列表](https://github.com/mabeijianxi/Circle-of-friends)</br>
+376、[FireCrasher is a Uncaught Exceptions handler library for android](https://github.com/osama-raddad/FireCrasher)</br>
+377、[全局捕获Crash。信NeverCrash，永不Crash。](https://github.com/jenly1314/NeverCrash)</br>
+378、[AppCrash let you relaunch the app and manage crash message when your app has an exception](https://github.com/jcmore2/AppCrash)</br>
+379、[Android Static FrameWork（天眼SkyMonitoring）, 埋点统计SDK: 支持Activity路由统计，自定义事件统计，Crash日志统计](https://github.com/Tamicer/SkyMonitoring)</br>
+380、[[DEPRECATED] android程序崩溃异常处理框架](https://github.com/msdx/android-crash)</br>
+381、[]()</br>
