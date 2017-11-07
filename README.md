@@ -436,5 +436,32 @@
 344、[Android 100 TOP Projects all over the github (Android百大框架排行榜)](https://github.com/ShaunSheep/Android_100_TOP-Projects)</br>
 345、[高仿bilibili安卓客户端](https://github.com/GitLqr/LQRBiliBlili)</br>
 346、[a Third-party Android App of DiyCode Community ](https://github.com/linsneider/DiyCodeAndroid)</br>
-347、[]()</br>
-
+347、[表格控件，类似课程表，可滑动](https://github.com/Kelin-Hong/ScrollablePanel)</br>
+348、[点赞动画](https://github.com/ldoublem/ThumbUp)</br>
+349、[LoadingView](https://github.com/ldoublem/LoadingView)</br>
+350、[A beautiful gift Cards for android](https://github.com/ldoublem/GiftCard)</br>
+351、[机票座位选择 ](https://github.com/ldoublem/FlightSeat)</br>
+352、[碎纸机动画](https://github.com/ldoublem/PaperShredder)</br>
+353、[类似新浪微博andaroid客户端点击头像显示效果](https://github.com/ldoublem/PopPhoto)</br>
+354、[模仿android新浪微博客户端菜单弹出效果](https://github.com/ldoublem/MenuDialogFragment)</br>
+355、[模仿微信运动统计表android](https://github.com/ldoublem/wxsportstatistical)</br>
+356、[android查询汇率工具](https://github.com/ldoublem/Rate)</br>
+357、[类似刻度尺的选择控件](https://github.com/ldoublem/selectView)</br>
+358、[登录加载、返回按钮转场动画控件](https://github.com/ldoublem/ProgressButton)</br>
+359、[A custom Password Input with animation for Android](https://github.com/ldoublem/PassWordInput)</br>
+360、[类似支付宝芝麻信用仪表盘](https://github.com/ldoublem/AlpayRing)</br>
+361、[a circle progress bar with effect](https://github.com/ldoublem/RingProgress)</br>
+362、[垂直滚动的广告栏文字展示](https://github.com/maning0303/SwitcherView)</br>
+363、[Android夜间模式，通过Theme实现](https://github.com/maning0303/MNChangeSkin)</br>
+364、[MNProgressHUD常用的自定义弹框封装,加载ProgressDialog,状态显示的StatusDialog和自定义Toast,支持背景颜色,圆角,边框和文字的自定义。](https://github.com/maning0303/MNProgressHUD)</br>
+365、[Debug监听程序崩溃日志,展示崩溃日志列表，方便自己平时调试。](https://github.com/maning0303/MNCrashMonitor)</br>
+366、[CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash)</br>
+367、[a crash recovery framework.](https://github.com/Sunzxyong/Recovery)</br>
+368、[降低Android非必要crash](https://github.com/android-notes/Cockroach)</br>
+369、[(Deprecated) A nice and strong uncaught exception handler library, supports showing logs both on Logcat & Woodpecker and set an AlertDialog to help user to download a new stable application](https://github.com/drakeet/CrashWoodpecker)</br>
+370、[（Material Design & MVP & Retrofit + OKHttp & RecyclerView ...）Gank.io Android客户端：每天一张美女图片，一个视频短片，若干Android，iOS等程序干货，周一到周五每天更新，数据全部由 干货集中营 提供。](https://github.com/maning0303/GankMM)</br>
+371、[这是一款自定义日期时间选择器](https://github.com/lyxRobert/SelectDateAndTime)</br>
+372、[Android-AppBarLayout-TabLayout-RecyclerView-ViewPager-Fragment](https://github.com/lyxRobert/Android-AppBarLayout-TabLayout-RecyclerView-ViewPager-Fragment)</br>
+373、[]()</br>
+374、[]()</br>
+375、[]()</br>
