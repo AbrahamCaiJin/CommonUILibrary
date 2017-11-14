@@ -470,4 +470,8 @@
 378、[AppCrash let you relaunch the app and manage crash message when your app has an exception](https://github.com/jcmore2/AppCrash)</br>
 379、[Android Static FrameWork（天眼SkyMonitoring）, 埋点统计SDK: 支持Activity路由统计，自定义事件统计，Crash日志统计](https://github.com/Tamicer/SkyMonitoring)</br>
 380、[[DEPRECATED] android程序崩溃异常处理框架](https://github.com/msdx/android-crash)</br>
-381、[]()</br>
+381、[仿蜻蜓FM轮播banner](https://github.com/JeasonWong/QingtingBannerView)</br>
+382、[引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果](https://github.com/bingoogolapple/BGABanner-Android)</br>
+383、[通用的广告栏控件，让你轻松实现广告头效果](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)</br>
+384、[Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等](https://github.com/youth5201314/banner)</br>
+385、[]()</br>
