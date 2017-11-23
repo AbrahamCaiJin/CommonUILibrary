@@ -474,4 +474,6 @@
 382、[引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果](https://github.com/bingoogolapple/BGABanner-Android)</br>
 383、[通用的广告栏控件，让你轻松实现广告头效果](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)</br>
 384、[Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等](https://github.com/youth5201314/banner)</br>
-385、[]()</br>
+385、[编辑个人资料，图片可拖拽排序。有点像可拖拽的gridView，但是会更流畅。这个demo是探探的个人资料编辑页面，受网上一位朋友的委托，该库模仿了其拖动效果](https://github.com/xmuSistone/DragRankSquare)</br>
+386、[Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件](https://github.com/bingoogolapple/BGAPhotoPicker-Android)</br>
+387、[]()</br>
