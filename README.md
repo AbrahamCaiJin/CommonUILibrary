@@ -476,4 +476,12 @@
 384、[Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等](https://github.com/youth5201314/banner)</br>
 385、[编辑个人资料，图片可拖拽排序。有点像可拖拽的gridView，但是会更流畅。这个demo是探探的个人资料编辑页面，受网上一位朋友的委托，该库模仿了其拖动效果](https://github.com/xmuSistone/DragRankSquare)</br>
 386、[Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件](https://github.com/bingoogolapple/BGAPhotoPicker-Android)</br>
-387、[]()</br>
+387、[自定义控件、特效的集合](https://github.com/wulee510505/TestMoudle)</br>
+388、[一句代码搞定语音合成，文字转语音](https://github.com/wulee510505/Text2Speach)</br>
+389、[快速实现录音功能](https://github.com/wulee510505/Recording)</br>
+390、[此记事本包含了登录注册、检查更新、添加/查看记事，以及对已添加的记事进行编辑的功能](https://github.com/wulee510505/notebook)</br>
+391、[可以根据图片内容变阴影颜色，更加细腻的阴影效果 It can change color according to the picture, more delicate shadow effect](https://github.com/yingLanNull/ShadowImageView)</br>
+392、[AppUpdate](https://github.com/fccaikai/AppUpdate)</br>
+393、[]()</br>
+394、[]()</br>
+395、[]()</br>
