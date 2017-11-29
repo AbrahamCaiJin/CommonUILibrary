@@ -482,6 +482,20 @@
 390、[此记事本包含了登录注册、检查更新、添加/查看记事，以及对已添加的记事进行编辑的功能](https://github.com/wulee510505/notebook)</br>
 391、[可以根据图片内容变阴影颜色，更加细腻的阴影效果 It can change color according to the picture, more delicate shadow effect](https://github.com/yingLanNull/ShadowImageView)</br>
 392、[AppUpdate](https://github.com/fccaikai/AppUpdate)</br>
-393、[]()</br>
-394、[]()</br>
-395、[]()</br>
+393、[打造通用的popupwindow](https://github.com/razerdp/BasePopup)</br>
+394、[一起来撸个朋友圈吧](https://github.com/razerdp/FriendCircle)</br>
+395、[这是一个简单的时间轴实现(LinearLayout)](https://github.com/razerdp/UnderLineLinearLayout)</br>
+396、[一个好吃的甜甜圈？](https://github.com/razerdp/AnimatedPieView)</br>
+397、[这个是点赞控件哦](https://github.com/razerdp/PraiseWidget)</br>
+398、[ 一个适用于AbsListView或者RecyclerView的仿朋友圈九宫格控件，针对View的复用做了二次缓存，减少创建View次数和减少measure/layout次数](https://github.com/razerdp/PhotoContents)</br>
+399、[CacheWebView是Android WebView 缓存的自定义实现，让缓存更简单、更快、更灵活。让网站离线也能正常访问。](https://github.com/yale8848/CacheWebView?utm_source=gold_browser_extension)</br>
+400、[circle-menu-android](https://github.com/Ramotion/circle-menu-android)</br>
+401、[ExpandableRecyclerView](https://github.com/hgDendi/ExpandableRecyclerView)</br>
+402、[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)</br>
+403、[anproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，目前仅支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。目前市面上提供类似服务的有花生壳、TeamView、GoToMyCloud等等，但要使用第三方的公网服务器就必须为第三方付费，并且这些服务都有各种各样的限制，此外，由于数据包会流经第三方，因此对数据安全也是一大隐患](https://github.com/ffay/lanproxy)</br>
+404、[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)</br>
+405、[]()</br>
+406、[]()</br>
+407、[]()</br>
+408、[]()</br>
+409、[]()</br>
