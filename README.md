@@ -502,7 +502,11 @@
 410、[android一键清理/内存加速，缓存清理，自启管理，软件管理](http://www.apkbus.com/thread-591966-1-1.html)</br>
 411、[Android手机上的免Root Android系统日志Viewer](http://www.apkbus.com/thread-591853-1-1.html)</br>
 412、[仿微信打开红包旋转动画](http://www.apkbus.com/thread-591669-1-1.html)</br>
-413、[]()</br>
+413、[Android 圆盘旋转/飞转菜单（高度定制化）](http://blog.csdn.net/aknew123/article/details/55043707)</br>
 414、[]()</br>
 415、[]()</br>
 416、[]()</br>
+417、[]()</br>
+418、[]()</br>
+419、[]()</br>
+420、[]()</br>
