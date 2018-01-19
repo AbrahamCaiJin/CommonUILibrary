@@ -503,8 +503,8 @@
 411、[Android手机上的免Root Android系统日志Viewer](http://www.apkbus.com/thread-591853-1-1.html)</br>
 412、[仿微信打开红包旋转动画](http://www.apkbus.com/thread-591669-1-1.html)</br>
 413、[Android 圆盘旋转/飞转菜单（高度定制化）](http://blog.csdn.net/aknew123/article/details/55043707)</br>
-414、[]()</br>
-415、[]()</br>
+414、[Android LoopViewPager 轮播控件](https://github.com/open-android/LoopViewPager)</br>
+415、[Android酷炫动画效果之3D星体旋转效果](http://blog.csdn.net/johnWcheung/article/details/52496652)</br>
 416、[]()</br>
 417、[]()</br>
 418、[]()</br>
