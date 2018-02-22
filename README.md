@@ -505,8 +505,8 @@
 413、[Android 圆盘旋转/飞转菜单（高度定制化）](http://blog.csdn.net/aknew123/article/details/55043707)</br>
 414、[Android LoopViewPager 轮播控件](https://github.com/open-android/LoopViewPager)</br>
 415、[Android酷炫动画效果之3D星体旋转效果](http://blog.csdn.net/johnWcheung/article/details/52496652)</br>
-416、[]()</br>
-417、[]()</br>
+416、[一个添加银行卡操作步骤自定义VIew,很简单](https://github.com/wenzhimin/BootStepView)</br>
+417、[CoCoin，一款多视图记账APP](https://github.com/Nightonke/CoCoin/blob/master/README-ZH.md)</br>
 418、[]()</br>
 419、[]()</br>
 420、[]()</br>
