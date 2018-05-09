@@ -531,7 +531,8 @@
 [![ui](https://github.com/leifu1107/AlipayHome/raw/master/screenshots/1.gif "效果图")](https://github.com/iugg21/alipay_home)</br>
 
 434、[高仿支付宝首页的头部伸缩动画(使用design实现效果](https://github.com/leifu1107/AlipayHome)</br>
-[![ui](https://github.com/leifu1107/AlipayHome/raw/master/screenshots/1.gif "效果图")](https://github.com/leifu1107/AlipayHome)
+[![ui](https://github.com/leifu1107/AlipayHome/raw/master/screenshots/1.gif "效果图")](https://github.com/leifu1107/AlipayHome)</br>
+
 435、[《菜鸟商城》是一个仿淘宝客户端的App，其中功能包括：支付，首页，热卖，商品大全，购物车，我的，商品列表，登录，仅限于这些，还可以进行补充。](https://github.com/zxuu/ImitateTaobaoApp)</br>
 436、[《菜鸟商城》是一个仿淘宝客户端的实战课程，帮助你系统掌握商城类应用功能实现和开发流程，完整的实现一个商业化项目。其中功能包括：支付（支付宝、微信、百度钱包），首页，热卖，商品大全，购物车，我的，商品列表，商品详情，注册/登录，收货地址，我的订单，我的收藏等。](https://github.com/15829238397/CN5E-shop)</br>
 437、[侧滑返回库SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)</br>
@@ -553,8 +554,8 @@
 447、[ ExpandListView 的使用例子](https://github.com/fanturbo/ExpandListViewDemo)</br>
 [![ui](https://github.com/fanturbo/ExpandListViewDemo/raw/master/demo1.png "效果图")](https://github.com/fanturbo/ExpandListViewDemo)</br>
 
-448、[ExpandListView]()</br>
-449、[ExpandListView]()</br>
+448、[用ExpandListView 实现购物车商品，选中，全选，反选操作. 可使用()</br>
+449、[基于google的MD中SwipeRefresh控件的二次开发，制定ListView，ExpandListView，Scrollview等下拉刷新，上拉加载](https://github.com/Ren-yibo/SwipeRefresh)</br>
 450、[ExpandListView]()</br>
 451、[ExpandListView]()</br>
 452、[ExpandListView]()</br>
