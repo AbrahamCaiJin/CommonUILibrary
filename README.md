@@ -529,5 +529,22 @@
 437、[侧滑返回库SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)</br>
 438、[底部菜单FragmentTabHost](https://github.com/zhangbz/FragmentTabHost)</br>
 439、[Live圈 新闻类](https://github.com/LRH1993/LiveCircle)</br>
-440、[]()</br>
+440、[Kotlin APP](https://github.com/LRH1993/Eyepetizer-in-Kotlin)</br>
+441、[一款基于行为识别和个性化推荐的智能推荐APP，实时为你推荐音乐和电影，让你的生活更休闲，更精彩！](https://github.com/LRH1993/SmartRecom)</br>
+442、[自定义ViewGroup,实现多功能流式布局与网格布局](https://github.com/LRH1993/AutoFlowLayout)</br>
+443、[recyclerview_helper多功能封装，让你应用更加自如](https://github.com/LRH1993/recyclerview_helper)</br>
+444、[]()</br>
+445、[]()</br>
+446、[]()</br>
+447、[]()</br>
 
+# 学习资料收集
+1、[Android校招面试指南](https://github.com/LRH1993/android_interview)</br>
+2、[]()</br>
+3、[]()</br>
+4、[]()</br>
+5、[]()</br>
+6、[]()</br>
+7、[]()</br>
+8、[]()</br>
+9、[]()</br>
