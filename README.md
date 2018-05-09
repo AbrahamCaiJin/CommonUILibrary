@@ -521,7 +521,13 @@
 429、[Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)</br>
 430、[Android版产品级的音乐播放器源码，功能太强大了，最好的产品原型](http://www.finalshares.com/read-467)</br>
 431、[Icons, Borders, Radius ... for Android buttons文字图片一键混排](https://github.com/medyo/fancybuttons)</br>
-432、[]()</br>
-433、[]()</br>
-434、[]()</br>
-435、[]()</br>
+432、[仿支付宝首页更多设置应用顺序Demo](https://github.com/aijie1712/DragSetAppOrder)</br>
+433、[仿支付宝首页更多设置应用顺序Demo](https://github.com/ywanhzy/MenuManage-Imitate-Alipay)</br>
+434、[仿支付宝首页效果](https://github.com/iugg21/alipay_home)</br>
+435、[《菜鸟商城》是一个仿淘宝客户端的App，其中功能包括：支付，首页，热卖，商品大全，购物车，我的，商品列表，登录，仅限于这些，还可以进行补充。](https://github.com/zxuu/ImitateTaobaoApp)</br>
+436、[《菜鸟商城》是一个仿淘宝客户端的实战课程，帮助你系统掌握商城类应用功能实现和开发流程，完整的实现一个商业化项目。其中功能包括：支付（支付宝、微信、百度钱包），首页，热卖，商品大全，购物车，我的，商品列表，商品详情，注册/登录，收货地址，我的订单，我的收藏等。](https://github.com/15829238397/CN5E-shop)</br>
+437、[侧滑返回库SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)</br>
+438、[底部菜单FragmentTabHost](https://github.com/zhangbz/FragmentTabHost)</br>
+439、[Live圈 新闻类](https://github.com/LRH1993/LiveCircle)</br>
+440、[]()</br>
+
