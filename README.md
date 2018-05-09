@@ -522,8 +522,16 @@
 430、[Android版产品级的音乐播放器源码，功能太强大了，最好的产品原型](http://www.finalshares.com/read-467)</br>
 431、[Icons, Borders, Radius ... for Android buttons文字图片一键混排](https://github.com/medyo/fancybuttons)</br>
 432、[仿支付宝首页更多设置应用顺序Demo](https://github.com/aijie1712/DragSetAppOrder)</br>
+[![ui](https://github.com/ywanhzy/MenuManage-Imitate-Alipay/raw/master/screenshort/screenshort1.gif "效果图")](https://github.com/ywanhzy/MenuManage-Imitate-Alipay)</br>
+
 433、[仿支付宝首页更多设置应用顺序Demo](https://github.com/ywanhzy/MenuManage-Imitate-Alipay)</br>
+[![ui](https://github.com/aijie1712/DragSetAppOrder/raw/master/images/%E6%95%88%E6%9E%9C%E5%9B%BE.gif "效果图")](https://github.com/aijie1712/DragSetAppOrder)</br>
+
 434、[仿支付宝首页效果](https://github.com/iugg21/alipay_home)</br>
+[![ui](https://github.com/leifu1107/AlipayHome/raw/master/screenshots/1.gif "效果图")](https://github.com/iugg21/alipay_home)</br>
+
+434、[高仿支付宝首页的头部伸缩动画(使用design实现效果](https://github.com/leifu1107/AlipayHome)</br>
+[![ui](https://github.com/leifu1107/AlipayHome/raw/master/screenshots/1.gif "效果图")](https://github.com/leifu1107/AlipayHome)
 435、[《菜鸟商城》是一个仿淘宝客户端的App，其中功能包括：支付，首页，热卖，商品大全，购物车，我的，商品列表，登录，仅限于这些，还可以进行补充。](https://github.com/zxuu/ImitateTaobaoApp)</br>
 436、[《菜鸟商城》是一个仿淘宝客户端的实战课程，帮助你系统掌握商城类应用功能实现和开发流程，完整的实现一个商业化项目。其中功能包括：支付（支付宝、微信、百度钱包），首页，热卖，商品大全，购物车，我的，商品列表，商品详情，注册/登录，收货地址，我的订单，我的收藏等。](https://github.com/15829238397/CN5E-shop)</br>
 437、[侧滑返回库SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)</br>
@@ -533,10 +541,23 @@
 441、[一款基于行为识别和个性化推荐的智能推荐APP，实时为你推荐音乐和电影，让你的生活更休闲，更精彩！](https://github.com/LRH1993/SmartRecom)</br>
 442、[自定义ViewGroup,实现多功能流式布局与网格布局](https://github.com/LRH1993/AutoFlowLayout)</br>
 443、[recyclerview_helper多功能封装，让你应用更加自如](https://github.com/LRH1993/recyclerview_helper)</br>
-444、[]()</br>
-445、[]()</br>
-446、[]()</br>
-447、[]()</br>
+444、[ExpandListView](https://github.com/MarkMjw/TreeView)</br>
+[![ui](https://camo.githubusercontent.com/b3cfddf663748ce8d54a8187d92ff73ac74e3db3/68747470733a2f2f7261772e6769746875622e636f6d2f4d61726b4d6a772f54726565566965772f6d61737465722f53637265656e53686f74732f302e706e67 "效果图")](https://github.com/MarkMjw/TreeView)</br>
+
+445、[ExpandListView基本完成类似购物车功能 全选](https://github.com/1181631922/Nested)</br>
+[![ui](https://github.com/1181631922/Nested/raw/master/img/nested1.gif "效果图")](https://github.com/1181631922/Nested)</br>
+
+446、[ViewPager 中嵌套Expandlistview](https://github.com/Jastyle/TreeViewPager)</br>
+[![ui](https://github.com/Jastyle/TreeViewPager/raw/master/test.gif "效果图")](https://github.com/Jastyle/TreeViewPager)</br>
+
+447、[ ExpandListView 的使用例子](https://github.com/fanturbo/ExpandListViewDemo)</br>
+[![ui](https://github.com/fanturbo/ExpandListViewDemo/raw/master/demo1.png "效果图")](https://github.com/fanturbo/ExpandListViewDemo)</br>
+
+448、[ExpandListView]()</br>
+449、[ExpandListView]()</br>
+450、[ExpandListView]()</br>
+451、[ExpandListView]()</br>
+452、[ExpandListView]()</br>
 
 # 学习资料收集
 1、[Android校招面试指南](https://github.com/LRH1993/android_interview)</br>
