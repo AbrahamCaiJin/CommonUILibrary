@@ -558,8 +558,16 @@
 449、[基于google的MD中SwipeRefresh控件的二次开发，制定ListView，ExpandListView，Scrollview等下拉刷新，上拉加载](https://github.com/Ren-yibo/SwipeRefresh)</br>
 450、[Android ExpandableListView单选以及多选实现](https://blog.csdn.net/Hello201404/article/details/48546387)</br>
 [![ui](https://img-blog.csdn.net/20150918144206083?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "效果图")](https://blog.csdn.net/Hello201404/article/details/48546387)</br>
-451、[ExpandListView]()</br>
-452、[ExpandListView]()</br>
+451、[高仿支付宝锚点功能，由支付宝首页->更多->进入我的应用页面动画效果，城市服务栏目页面滚动切换Tab效果](https://github.com/xuancao/AnchorsRecycleView)</br>
+[![ui](https://github.com/xuancao/AnchorsRecycleView/raw/master/anchorsRecycle.gif "效果图")](https://github.com/xuancao/AnchorsRecycleView)</br>
+452、[支付宝首页下拉笑脸](https://github.com/Codpoe/SmilingFaceView)</br>
+453、[]()</br>
+454、[]()</br>
+455、[]()</br>
+456、[]()</br>
+457、[]()</br>
+458、[]()</br>
+459、[]()</br>
 
 # 学习资料收集
 1、[Android校招面试指南](https://github.com/LRH1993/android_interview)</br>
